@@ -1,5 +1,14 @@
 [
 	{
+		"title": "Discord Rich presence",
+		"description": "When enable, it shows what you're doing under you discord profile",
+		"credits": ["vladutzu27"],
+		"urls": ["https://scratch.mit.edu/users/vladutzu27/"],
+		"file": "rich-presence",
+		"tags": ["Beta"],
+		"type": ["Editor", "Website"]
+	},
+	{
 		"title": "Infinite Backpack Scrolling",
 		"description": "Scroll through the backpack until you reach the very end (does take some time to load, but loads automatically).",
 		"credits": ["rgantzos","johnny263"],
@@ -725,14 +734,5 @@
 		"file": "terrible",
 		"tags": ["Egg"],
 		"type": ["Website"]
-	},
-	{
-		"title": "Discord Rich presence",
-		"description": "When enable, it shows what you're doing under you discord profile",
-		"credits": ["vladutzu27"],
-		"urls": ["https://scratch.mit.edu/users/vladutzu27/"],
-		"file": "rich-presence",
-		"tags": ["Beta"],
-		"type": ["Editor", "Website"]
 	}
 ]
