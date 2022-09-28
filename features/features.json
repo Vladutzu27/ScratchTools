@@ -725,5 +725,14 @@
 		"file": "terrible",
 		"tags": ["Egg"],
 		"type": ["Website"]
+	},
+	{
+		"title": "Discord Rich presence",
+		"description": "When enable, it shows what you're doing under you discord profile",
+		"credits": ["vladutzu27"],
+		"urls": ["https://scratch.mit.edu/users/vladutzu27/"],
+		"file": "rich-presence",
+		"tags": ["Beta"],
+		"type": ["Editor", "Website"]
 	}
 ]
